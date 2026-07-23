@@ -1,6 +1,6 @@
 ## 📸 Media & Documentation
 
-This directory contains the visual documentation and schematics for the high-speed 16-IR line follower project. Seeing the robot in action is the best way to understand the effectiveness of the PID tuning and the high-resolution sensor array.
+This directory contains the visual documentation for the high-speed 16-IR line follower project. Seeing the robot in action is the best way to understand the effectiveness of the PID tuning and the high-resolution sensor array.
 
 ### 🎥 Video Demonstrations
 
