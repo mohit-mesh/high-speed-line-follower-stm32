@@ -32,7 +32,8 @@ To ensure signal integrity at high speeds and eliminate messy wiring, I designed
 1. **Main Control Board:** Integrates the STM32 microcontroller, motor drivers, OLED display, and power distribution into a single, compact footprint to lower the robot's center of gravity.
 2. **16-IR Sensor Array Board:** Standard 5-IR arrays limit a robot to jerky, bang-bang control. By designing a custom 16-IR array, the microcontroller receives a highly granular, continuous gradient of the line's position. This allows the derivative ($K_d$) and proportional ($K_p$) terms to calculate precise motor speed adjustments, preventing overshoot even at top speeds.
 
-> *(Consider dragging and dropping a 3D render or top-down photo of your PCBs here!)*
+<img width="200" height="300" alt="16 array" src="https://github.com/user-attachments/assets/afa3178d-4c41-40eb-a8d3-9d012efa4a22" />
+
 
 ## 📂 Repository Structure
 
