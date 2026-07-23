@@ -1,6 +1,6 @@
 # High-Speed 16-IR Line Follower 🏎️⚡
 
-<img width="900" height="750" alt="16-ir robot" src="https://github.com/user-attachments/assets/7e61c484-8e21-4061-8970-1945c763fe25" />
+<img width="900" height="800" alt="16-ir robot" src="https://github.com/user-attachments/assets/7e61c484-8e21-4061-8970-1945c763fe25" />
 
 
 ## 🏆 Project Overview
